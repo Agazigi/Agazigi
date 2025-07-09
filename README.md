@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Agazigi
-- 👀 I’m interested in DeepLearning, Backend development, Python
-- 🌱 I’m currently learning Diffusion, Django, VAE ...
+- 👀 I’m interested in Python, Deep Learning, Bioinformation, Backend, Linux, Blog
+- 🌱 I’m currently learning Bioinformation, Protein Design, Deep Learning
 - 📫 How to reach me 3486446493@qq.com
 - 😄 Pronouns: he
 
