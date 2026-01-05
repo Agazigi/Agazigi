@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://agazigi.github.io/](https://agazigi.github.io/)
 
-- 📫 How to reach me **3486446493@qq.com**
+- 📫 How to reach me **gszhang603@outlook.com**
 
 <p align="left">
 </p>
